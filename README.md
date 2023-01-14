@@ -1,4 +1,4 @@
-<h3 align="left">Hi👋, I'm Vinícius Yuji</h3>
+### Hi👋, I'm Vinícius Yuji
 - 🔭 I’m currently working as a Data Engineer
 - 🤝 I’m looking to collaborate on data engineering and backend projects
 
