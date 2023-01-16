@@ -3,8 +3,14 @@
 - 🤝 I’m looking to collaborate on data engineering and backend projects
 
 ## <div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniyuji&show_icons=true&locale=en&layout=compact" alt="viniyuji" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniyuji&show_icons=true&locale=en&layout=compact" alt="viniyuji" /></p>
 </div>
+
+## <div>
+  <a href="https://github.com/viniyuji">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniyuji&layout=light&langs_count=7&theme=dark"/>
+</div>
+
 
 ## Languages and Tools:
 <div style="display: inline_block"><br>
