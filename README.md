@@ -1,6 +1,6 @@
 ### Hi👋, I'm Vinícius Yuji
 - 🔭 I’m currently working as a Data Engineer
-- 🤝 I’m looking to collaborate on data engineering and backend projects
+- 🤝 I’m looking to collaborate on data engineering and data science projects
 
 
 ## <div>
